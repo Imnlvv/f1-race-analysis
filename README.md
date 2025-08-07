@@ -16,6 +16,7 @@ This project presents a visual and statistical analysis of Formula 1 data from 1
 ## Project Structure
 <pre> f1-race-analysis 
 ├── data/ <i># CSV data files</i> 
+├── visualization/ <i># Saved plots and charts from the analysis</i> 
 ├── analysis.ipynb <i># Jupyter notebook with all the analysis</i> 
 └── README.md <i># Project description</i> </pre>
 
