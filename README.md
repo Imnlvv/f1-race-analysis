@@ -20,4 +20,4 @@ This project presents a visual and statistical analysis of Formula 1 data from 1
 └── README.md <i># Project description</i> </pre>
 
 ## Data Source
-All datasets were manually collected and preprocessed. Full project description (in Russian) is available here.
+All datasets were manually collected and preprocessed. Full project description (in Russian) is available [here](https://deziiign.com/project/graficheskij-analiz-gonok-formuly-1-1950--8d24ca97933f44579a38aea26f37f392).
