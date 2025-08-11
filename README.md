@@ -18,6 +18,7 @@ This project presents a visual and statistical analysis of Formula 1 data from 1
 ├── data/ <i># CSV data files</i> 
 ├── visualization/ <i># Saved plots and charts from the analysis</i> 
 ├── analysis.ipynb <i># Jupyter notebook with all the analysis</i> 
+├── analysis.py <i># Python script version of the game</i> 
 └── README.md <i># Project description</i> </pre>
 
 ## Data Source
